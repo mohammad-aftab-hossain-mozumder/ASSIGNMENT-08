@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://cdn.simpleicons.org/apple",
+    "title": "Aura Health Tracker",
+    "companyName": "Zenith Wellness Inc.",
+    "id": 1,
+    "description": "Aura Health Tracker offers a comprehensive, personalized journey into **daily mindfulness and meditation**. It goes beyond simple timers by providing **adaptive guided routines** tailored to your current stress levels and emotional state, as detected by advanced AI analysis of your usage patterns. The app features hundreds of sessions, from 3-minute breathwork to 30-minute deep sleep narratives. Crucially, it seamlessly **integrates with Apple Health** to incorporate physical activity, heart rate variability, and sleep data into its wellness recommendations, providing a truly holistic view of your health and helping you track tangible improvements in your well-being over time. This makes it a central hub for both mental and physical data.",
+    "size": 180,
+    "reviews": 150000,
+    "ratingAvg": 4.9,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 4500 },
+      { "name": "4 star", "count": 39000 },
+      { "name": "5 star", "count": 104000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/android",
+    "title": "Droid Utility Cleaner",
+    "companyName": "System Optimizers LLC",
+    "id": 2,
+    "description": "Droid Utility Cleaner is the **essential Android-specific tool** engineered from the ground up to ensure your device runs at peak performance. It features a powerful deep-scan engine that effectively identifies and safely removes residual files, orphaned data, and massive amounts of **application cache** that slow your system down. The advanced **memory management** module proactively halts non-essential background processes without requiring root access, instantly freeing up RAM for active applications. Furthermore, its intelligent **battery life extension** algorithms monitor app-level power consumption and apply dynamic optimization profiles, allowing users to significantly boost their usage time between charges. It’s a complete maintenance suite for the discerning Android user.",
+    "size": 45,
+    "reviews": 210000,
+    "ratingAvg": 4.5,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 3900 },
+      { "name": "3 star", "count": 18000 },
+      { "name": "4 star", "count": 76000 },
+      { "name": "5 star", "count": 110000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/googlepay",
+    "title": "Wallet Wise Budget",
+    "companyName": "Anchor Financial Tech",
+    "id": 3,
+    "description": "Wallet Wise Budget provides an effortless and highly secure way to manage your personal finances. The app's killer feature is its ability to **sync instantly and securely with thousands of bank accounts** and popular financial services like **Google Pay**, credit cards, and investment portfolios. This real-time data flow is then automatically filtered and subjected to **AI-driven categorization**, turning chaotic transaction lists into clean, insightful spending graphs. Users can set and track detailed **wealth goals**, receive proactive alerts on potential overspending, and generate custom reports to see exactly where their money is going, empowering them to make smarter financial decisions and build a stable future.",
+    "size": 65,
+    "reviews": 85000,
+    "ratingAvg": 4.7,
+    "downloads": 7500000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 7500 },
+      { "name": "4 star", "count": 25500 },
+      { "name": "5 star", "count": 55000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/paypal",
+    "title": "P2P Settle",
+    "companyName": "Digital Exchange Services",
+    "id": 4,
+    "description": "P2P Settle is the modern solution for hassle-free money transfers and group expense management. Its core functionality is centered on allowing users to **easily split bills** from restaurants, travel, or utilities, calculating everyone’s share down to the penny and sending automated payment requests. The service facilitates **fast, secure, person-to-person transactions globally**, utilizing end-to-end encryption and biometric security for peace of mind. Moreover, it offers seamless **compatibility with major global payment services like PayPal**, allowing you to fund transfers or withdraw money into your preferred accounts without extra hoops. It’s the simplest way to manage group finances and ensure everyone gets paid back quickly.",
+    "size": 50,
+    "reviews": 75000,
+    "ratingAvg": 4.6,
+    "downloads": 6800000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 26000 },
+      { "name": "5 star", "count": 45000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/bitcoin",
+    "title": "Crypto Ledger Pro",
+    "companyName": "Blockchain Solutions",
+    "id": 5,
+    "description": "Crypto Ledger Pro is the ultimate mobile terminal for serious cryptocurrency investors. It provides **lightning-fast, real-time price monitoring** for **Bitcoin** and an extensive list of **over 500 other cryptocurrencies** and altcoins, pulling data from all major global exchanges. The robust **portfolio tracking** feature allows users to manually or API-connect their wallets to see their total net worth, profit/loss over time, and distribution of assets in visually stunning charts. Crucial to staying ahead, the app includes a sophisticated, customizable **news and market alert system** that instantly notifies you of significant price movements or breaking regulatory news that could impact your holdings. It’s a full-featured, on-the-go crypto command center.",
+    "size": 110,
+    "reviews": 32000,
+    "ratingAvg": 4.8,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 750 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 21000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/discord",
+    "title": "Gamer Huddle Chat",
+    "companyName": "NexGen Social Labs",
+    "id": 6,
+    "description": "Gamer Huddle Chat is the premier **voice and text communication platform** designed specifically for the needs of gaming communities and esports teams. The app delivers crystal-clear, low-latency **voice chat** that's essential during intense gameplay sessions, supporting thousands of concurrent users. It features an intuitive **server support** structure with customizable channels, role management, and granular permission controls, providing all the organization power of a service **similar to Discord** but optimized for mobile-first user experience. Whether you're coordinating a raid, discussing patch notes, or just hanging out, Gamer Huddle Chat ensures seamless, cross-platform communication for all your gaming needs.",
+    "size": 95,
+    "reviews": 120000,
+    "ratingAvg": 4.7,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 48000 },
+      { "name": "5 star", "count": 61000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/slack",
+    "title": "WorkFlow Connect",
+    "companyName": "Enterprise Tools Inc.",
+    "id": 7,
+    "description": "WorkFlow Connect is the indispensable **mobile team collaboration and messaging app** engineered for the speed and structure of modern business. It allows for instant, organized communication through dedicated channels for different projects, teams, or clients. The platform is **optimized for business communication**, supporting file sharing, threaded replies, and searchable history, dramatically cutting down on email clutter. It functions similarly to **Slack**, providing powerful integrations with popular productivity tools and enabling users to manage tasks, set reminders, and keep all project-related conversations and documents in one secure, accessible place, ensuring seamless communication whether you're in the office or on the move.",
+    "size": 30,
+    "reviews": 45000,
+    "ratingAvg": 4.4,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 18000 },
+      { "name": "5 star", "count": 22000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/github",
+    "title": "Repo Viewer Mobile",
+    "companyName": "DevPath Software",
+    "id": 8,
+    "description": "Repo Viewer Mobile is a developer's essential companion, enabling you to **view, monitor, and manage your code repositories** on the world's leading hosting platforms, including those like **GitHub**. It provides a clean, syntax-highlighted interface for browsing source code and file structures directly on your smartphone. The app is indispensable for DevOps, allowing you to quickly **review pull requests**, leave comments, merge branches, and **track open issues** and bug reports while you are away from your main workstation. It ensures you can stay connected to your development pipeline and respond to critical updates no matter where you are, keeping projects flowing smoothly 24/7.",
+    "size": 55,
+    "reviews": 16000,
+    "ratingAvg": 4.8,
+    "downloads": 1300000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/markdown",
+    "title": "Mobile Code Editor",
+    "companyName": "IDE Anywhere Labs",
+    "id": 9,
+    "description": "Mobile Code Editor is a **lightweight but surprisingly powerful code editor** designed for developers who need to be agile. Perfect for those moments when you're away from your desktop, it allows for **quick fixes, minor feature developments**, and syntax review across dozens of programming languages, including support for **Markdown** and common web languages. Inspired by the functionality of professional tools like **VS Code**, it includes features like syntax highlighting, auto-indentation, and basic file management directly on your mobile device. It transforms your smartphone into a portable IDE for emergency patches and on-the-go coding.",
+    "size": 20,
+    "reviews": 9200,
+    "ratingAvg": 4.5,
+    "downloads": 700000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 4600 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/npm",
+    "title": "Package Manager Guide",
+    "companyName": "Web Dev Resources",
+    "id": 10,
+    "description": "Package Manager Guide is the essential tool for JavaScript and web developers, acting as a **quick reference and highly searchable guide** to the vast ecosystem of open-source packages and modules. It offers a comprehensive, offline-accessible database of popular libraries and their corresponding documentation, making it easy to find syntax, common usages, and licensing information without an internet connection. The app provides direct **linking to registries like npm** for quick access to installation instructions and latest versions. This guide dramatically cuts down on time spent searching through web documentation, serving as an invaluable resource for both novice and senior developers.",
+    "size": 75,
+    "reviews": 3500,
+    "ratingAvg": 4.3,
+    "downloads": 280000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 1500 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/steam",
+    "title": "Game Library Sync",
+    "companyName": "Digital Gaming Platforms",
+    "id": 11,
+    "description": "Game Library Sync puts the power of your entire PC gaming ecosystem in the palm of your hand. This app allows you to **manage your digital game library** across various platforms, including integration with clients like **Steam**, Gog, and Epic Games. You can remotely trigger game downloads and updates to your desktop client, ensuring your titles are ready to play when you get home. It features a robust section to **check for new deals**, track your wishlist price drops, and provides a persistent, cross-platform **chat with friends**, letting you coordinate multiplayer sessions or just stay in touch with your gaming crew regardless of what system they are on.",
+    "size": 85,
+    "reviews": 85000,
+    "ratingAvg": 4.6,
+    "downloads": 9500000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 44500 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/youtube",
+    "title": "Video Stream Queue",
+    "companyName": "Media Consumption Co.",
+    "id": 12,
+    "description": "Video Stream Queue is the ultimate organization tool for the modern media consumer. It serves as a **personalized queue manager** that allows you to save videos and clips from **various streaming platforms**, including popular services like **YouTube**, Vimeo, and various news sites, all into one consolidated list. Its smart features automatically categorize content and estimate total watch time. This allows you to efficiently plan your media consumption, ensuring that you never lose track of that interesting video or tutorial you meant to watch later. It’s a clean, cross-platform solution for reducing digital clutter and maximizing your viewing time.",
+    "size": 35,
+    "reviews": 11200,
+    "ratingAvg": 4.7,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/spotify",
+    "title": "Tune Curator",
+    "companyName": "Audio Insight AI",
+    "id": 13,
+    "description": "Tune Curator is an innovative, **AI-driven music playlist generator** that revolutionizes the way you discover and listen to music. The core AI analyzes your listening habits, time of day, and location to create hyper-personalized playlists for any activity. It **syncs flawlessly with major streaming services like Spotify** and Apple Music, pushing its generated mixes directly to your library. Over time, the app **learns your deep-seated genre preferences**, mood requirements, and even tempo needs, providing a seamless stream of music discovery that always feels perfectly tailored to your current moment, making manual playlist creation a thing of the past.",
+    "size": 50,
+    "reviews": 75000,
+    "ratingAvg": 4.8,
+    "downloads": 7200000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/netflix",
+    "title": "Binge Watch Planner",
+    "companyName": "StreamLine Entertainment",
+    "id": 14,
+    "description": "Binge Watch Planner is the dedicated tool for media enthusiasts, solving the problem of keeping track of shows and movies across a fragmented streaming landscape. It allows you to log and organize every TV show, documentary, and movie you plan to watch, across **all major platforms**. It features automatic tracking of episode releases and provides a unified calendar for **new releases on services like Netflix**, Hulu, HBO, and others. You can mark episodes as watched, rate series, and manage your backlog with powerful filter and sorting options, transforming the daunting task of media consumption into a highly organized and enjoyable hobby.",
+    "size": 70,
+    "reviews": 31000,
+    "ratingAvg": 4.4,
+    "downloads": 3800000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 14000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/x",
+    "title": "MicroFeed Reader",
+    "companyName": "Information Flow Systems",
+    "id": 15,
+    "description": "MicroFeed Reader offers a clean, **minimalist, and completely ad-free reading experience** for the world of short-form social content. It connects to your accounts and pulls in posts from various popular microblogging networks like **X (Twitter) and Mastodon**, then strips away all the algorithmic noise, promotions, and extraneous UI elements. This focuses your attention purely on the text and core media, allowing for rapid and efficient consumption of information. The app is designed for users who value intellectual flow and wish to engage with communities without the distraction and bias of a commercial feed, providing a truly peaceful social reading environment.",
+    "size": 90,
+    "reviews": 10500,
+    "ratingAvg": 4.1,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3500 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/facebook",
+    "title": "Community Connector",
+    "companyName": "Social Bridge Apps",
+    "id": 16,
+    "description": "Community Connector is the comprehensive organization app for strengthening local bonds and managing group activities. It's built to help you efficiently **manage and organize local community groups and events**, from weekly book clubs to neighborhood watch meetings. By intelligently **integrating data from major social platforms like Facebook and dedicated event sites like Meetup**, it provides a single, unified calendar and communication hub. Users can send targeted invites, track RSVPs, share meeting notes, and facilitate community discussions securely, effectively streamlining the coordination of any local gathering and fostering a stronger sense of local belonging.",
+    "size": 48,
+    "reviews": 55000,
+    "ratingAvg": 4.9,
+    "downloads": 6000000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 18000 },
+      { "name": "5 star", "count": 35000 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/instagram",
+    "title": "Visual Story Editor",
+    "companyName": "Lens Flare Digital",
+    "id": 17,
+    "description": "Visual Story Editor delivers **professional-grade editing tools** with a focus on speed and mobile optimization. It is specifically designed for content creators needing to enhance **short vertical videos and photo stories** to meet high social media standards. The app includes a rich suite of filters, text overlays, dynamic transitions, and fine-grain color correction tools, making it easy to create eye-catching content. Its native aspect ratio and resolution presets are **perfectly optimized for platforms like Instagram** Stories and Reels, ensuring your final product is always pixel-perfect and ready for instant upload, cutting down on time spent fiddling with export settings.",
+    "size": 25,
+    "reviews": 13000,
+    "ratingAvg": 4.6,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 7700 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/tiktok",
+    "title": "QuickClip Cutter",
+    "companyName": "Video Speed Labs",
+    "id": 18,
+    "description": "QuickClip Cutter is the fastest and most intuitive **mobile app for rapid video trimming and editing** for viral social media content. It features a simplified timeline that allows users to precisely snip, merge, and rearrange clips in seconds, eliminating the complexity of professional software. The app’s extensive, up-to-date library of **popular sound clips and trending music** is perfect for instantly enhancing short-form videos. With direct export settings **optimized for platforms like TikTok**, it ensures maximum quality and rapid sharing, making it the go-to tool for creators who need to capture a moment, edit quickly, and publish immediately before a trend passes.",
+    "size": 30,
+    "reviews": 29000,
+    "ratingAvg": 4.8,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 15500 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/pinterest",
+    "title": "Inspo Board Maker",
+    "companyName": "Creative Visual Group",
+    "id": 19,
+    "description": "Inspo Board Maker is the digital canvas for your creative visions, allowing users to effortlessly **design and manage digital mood boards and inspiration collections**. This powerful visual organization tool lets you grab images, color palettes, and text snippets from the web or your camera roll and instantly arrange them onto a flexible canvas. It captures the spirit of the visual discovery experience offered by platforms **similar to Pinterest**, but with a focus on personal creation and project-based organization. Whether you're planning an interior design project, fashion line, or a new creative hobby, Inspo Board Maker keeps all your visual ideas neatly sorted and ready for reference.",
+    "size": 45,
+    "reviews": 8800,
+    "ratingAvg": 4.7,
+    "downloads": 650000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 5100 }
+    ]
+  },
+  {
+    "image": "https://cdn.simpleicons.org/reddit",
+    "title": "SubChannel Browser",
+    "companyName": "Nostalgia Gaming Inc.",
+    "id": 20,
+    "description": "SubChannel Browser is a dedicated, **text-focused and speed-optimized browser** for navigating online forums and community-driven discussion boards. It strips away heavy graphics and distracting sidebars, providing a clean interface that allows users to **dive deep into niche topics** and conversations. The app organizes content and user-created boards in a structure **similar to Reddit subreddits**, complete with nested commenting and upvoting functionality. It's designed for power users who prioritize long-form reading, discussion threads, and efficient content discovery within their favorite interest groups, without the clutter of a general-purpose social media platform.",
+    "size": 180,
+    "reviews": 55000,
+    "ratingAvg": 4.6,
+    "downloads": 6200000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 22000 },
+      { "name": "5 star", "count": 25000 }
+    ]
+  }
+]
