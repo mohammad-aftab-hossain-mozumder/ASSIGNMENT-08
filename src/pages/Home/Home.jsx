@@ -8,7 +8,7 @@ const Home = () => {
     <div>
       <Banner className='my-10'></Banner>
       <Apps appdatas={appdatas}></Apps>
-      <div className=" my-10 flex justify-center items-center"><button className="btn bg-green-400"><Link to={'/apps'}>show all</Link></button></div>
+      <div className=" my-10 flex justify-center items-center"><Link className="btn bg-green-400" to={'/apps'}>show all</Link></div>
     </div>
   )
 }

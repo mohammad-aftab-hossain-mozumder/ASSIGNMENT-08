@@ -6,8 +6,8 @@ const Banner = () => {
                 Productive Apps</h1>
             <p className='my-5 text-xl'>At HERO.IO , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br /> Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
             <div className="my-5 flex gap-4">
-                <button className='btn'><a href="https://play.google.com/store/apps/details?id=APP_PACKAGE_NAME">Google Play</a></button>
-                <button className='btn'><a href="https://apps.apple.com/app/idYOUR_APP_ID">App Store</a></button>
+                <a className='btn' href="https://play.google.com/store/apps/details?id=APP_PACKAGE_NAME">Google Play</a>
+                <a className='btn' href="https://apps.apple.com/app/idYOUR_APP_ID">App Store</a>
             </div>
             <img src={heropic} alt="" />
             <section className='text-white p-5 px-50 w-full my-5 bg-gradient-to-r from-[#632EE3] to-[#9F62F2]'>

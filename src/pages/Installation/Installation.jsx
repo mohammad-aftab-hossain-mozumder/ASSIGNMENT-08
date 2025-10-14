@@ -59,7 +59,7 @@ const Installation = ({ allinstalled, mainremoved, mainlocalfunc }) => {
       </div>
       <div className="flex justify-between items-center my-10">
         <div className=" text-xl font-bold">
-          total found {currentinstalled.length}
+          total found {localinstalled.length}
         </div>
         <details className="dropdown">
           <summary className="btn m-1">Sort By Size</summary>
