@@ -28,7 +28,7 @@ const Header = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn" href="https://github.com/MD-Aftab-Hossain">Contribute</a>
+          <a className="btn bg-[#4538ac]" href="https://github.com/MD-Aftab-Hossain">Contribute</a>
         </div>
       </div>
     </div>

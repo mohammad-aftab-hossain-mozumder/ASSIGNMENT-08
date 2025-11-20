@@ -17,20 +17,19 @@ const Allapps = () => {
     }
 
     return (
-        <div className="">
+        <div className="p-5">
 
             <div className="text-center my-10">
                 <h1 className='text-3xl'>Our All Applications</h1>
                 <p className='text-xl'>Explore All Apps on the Market developed by us. We code for Millions</p>
             </div>
-            <div className="flex justify-between items-center my-10">
-                <div className="font-bold text-2xl">total found {recentapps.length}</div>
-                <div className="">
-                    <input defaultValue={current} onChange={changed} className='border-2 rounded-xl p-2' type="text" placeholder='search Apps' name="" id="" />
-                </div>
+            <div className="grid grid-cols-3 items-center my-10">
+                <div className="font-bold text-2xl">Total Found {recentapps.length}</div>
+                <input defaultValue={current} onChange={changed} className='border-2 rounded-xl p-2' type="text" placeholder='search Apps' name="" id="" />
+                <div className=""></div>
             </div>
             {
-                loading&&<div className="text-5xl">loading.....</div>
+                loading && <div className="text-5xl">loading.....</div>
             }
             {
                 recentapps.length === 0 && <div className=" text-5xl text-center">not matching</div>
@@ -40,7 +39,7 @@ const Allapps = () => {
                     recentapps.map(perdata => <Perapp perdata={perdata}></Perapp>)
                 }
             </div>
-            
+
         </div>
     )
 }

@@ -6,7 +6,7 @@ const Perapp = ({ perdata }) => {
     return (
         <Link to={`/appdetails/${perdata.id}`}>
             <div>
-                <div className="card bg-base-100 w-75 shadow-sm">
+                <div className="card bg-white w-75 shadow-sm">
                     <figure>
                         <img
                             className='size-40'
@@ -14,12 +14,12 @@ const Perapp = ({ perdata }) => {
                             alt="Shoes" />
                     </figure>
                     <div className="card-body">
-                        <h2 className="card-title">
+                        <h2 className="card-title text-black">
                             {perdata.title}
                         </h2>
                         <div className="card-actions justify-between">
-                            <div className="badge badge-outline"><img className='size-4' src={downloadpic} alt="" /><span>{perdata.downloads}</span></div>
-                            <div className="badge badge-outline"><img className='size-4' src={starpic} alt="" /><span>{perdata.ratingAvg}</span></div>
+                            <div className="badge badge-outline"><img className='size-4' src={downloadpic} alt="" /><span className='text-black'>{perdata.downloads}</span></div>
+                            <div className="badge badge-outline"><img className='size-4' src={starpic} alt="" /><span className='text-black'>{perdata.ratingAvg}</span></div>
                         </div>
                     </div>
                 </div>

@@ -1,6 +1,6 @@
 @import "tailwindcss";
 @plugin "daisyui";
 
-.active{
-    background: bisque;
+.active {
+    color: #9f93f7;
 }
