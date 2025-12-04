@@ -1,16 +1,129 @@
-# React + Vite
+# 📱 Hero IO — App Store Listing Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive and interactive web application where users can explore apps, view detailed pages, install/uninstall apps using LocalStorage, and analyze ratings using dynamic charts.  
+Built as **Assignment 008** following all main + challenge requirements.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** https://warm-narwhal-bd2080.netlify.app/  
+📦 **GitHub Repository:** https://github.com/mohammad-aftab-hossain-mozumder/ASSIGNMENT-08.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📝 Project Summary
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Hero IO** is a modern, sleek, and production-ready app marketplace interface inspired by Google Play Store.  
+Users can browse apps, view descriptions, check ratings, and even “install” apps locally using the browser’s LocalStorage.
 
-## Expanding the ESLint configuration
+The app includes:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Home Page with Banner + Stats + Top Apps  
+- All Apps Page with live search & sorting  
+- App Details Page with dynamic charts  
+- My Installation Page  
+- Custom Error Page  
+- Loading animations  
+- Fully responsive layouts  
+- Seamless routing with reload support on Netlify  
+
+---
+
+## ✨ Key Features
+
+### 🔹 Fully Responsive UI  
+Optimized for Mobile, Tablet, and Desktop.
+
+### 🔹 App Data (12+ Objects)  
+Each app includes title, image, downloads, reviews, rating breakdown, etc.
+
+### 🔹 Home Page
+- Banner with CTA buttons  
+- Stats section  
+- Top Apps grid  
+- “Show All” navigation button
+
+### 🔹 All Apps Page
+- Live Search (case-insensitive)  
+- Instant filtering  
+- Total app count  
+- Sorting (High-Low / Low-High downloads)  
+- “No App Found” message  
+
+### 🔹 App Details Page
+- App preview image  
+- Ratings, reviews, downloads  
+- Recharts-based rating chart  
+- Description section  
+- Install button with:
+  - Success toast  
+  - Disabled state  
+  - Saved via LocalStorage  
+
+### 🔹 My Installation Page
+- Shows installed apps  
+- Uninstall button  
+- Removes from UI + LocalStorage  
+- Toast notification  
+
+### 🔹 Loading Animations
+- During route navigation  
+- During search operations  
+
+### 🔹 Error Handling
+- Custom 404 page  
+- Invalid app → Relevant error message  
+- Reloading routes works perfectly
+
+---
+
+## 📦 Dependencies
+
+Below are the exact dependencies used in this project:
+
+```json
+"dependencies": {
+  "@tailwindcss/vite": "^4.1.14",
+  "react": "^19.1.1",
+  "react-dom": "^19.1.1",
+  "react-router": "^7.9.3",
+  "react-toastify": "^11.0.5",
+  "recharts": "^3.2.1",
+  "tailwindcss": "^4.1.14"
+}
+```
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js  
+- React Router DOM  
+- Tailwind CSS  
+- Recharts  
+- React Toastify  
+- LocalStorage  
+- Netlify Deployment  
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/mohammad-aftab-hossain-mozumder/ASSIGNMENT-08.git
+
+# Move into project directory
+cd ASSIGNMENT-08
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+---
+
+
+
+## 🧾 Assignment Info  
+This project was created for **Assignment 008 — Hero IO**, implementing all required & challenge features.
+
