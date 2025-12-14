@@ -3,7 +3,7 @@
 A fully responsive and interactive web application where users can explore apps, view detailed pages, install/uninstall apps using LocalStorage, and analyze ratings using dynamic charts.  
 Built as **Assignment 008** following all main + challenge requirements.
 
-🔗 **Live Demo:** http://hero.io-third.surge.sh  
+🔗 **Live Demo:** https://silly-peony-df2e78.netlify.app/  
 📦 **GitHub Repository:** https://github.com/mohammad-aftab-hossain-mozumder/ASSIGNMENT-08.git
 
 ---
